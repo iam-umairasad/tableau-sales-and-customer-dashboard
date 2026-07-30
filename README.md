@@ -21,8 +21,9 @@ Digging through raw rows in a spreadsheet to answer these questions doesn't scal
 
 ## 🖥️ Interactive Dashboards Preview
 
-![Sales Performance Dashboard](screenshots/sales_dashboard_screenshot.png)
-![Customer Insights Dashboard](screenshots/customer_dashboard_screenshot.png)
+| Sales Performance Dashboard | Customer Insights Dashboard |
+| :---: | :---: |
+| ![Sales Performance Dashboard](screenshots/sales_dashboard_screenshot.png) | ![Customer Insights Dashboard](screenshots/customer_dashboard_screenshot.png) |
 
 ---
 
@@ -113,7 +114,7 @@ The data model follows a classic **retail sales star-schema**, built using Table
 
 ## 🚀 How to Access & Explore
 
-- 🔗 [View Live Dashboard on Tableau Public](your-link-here)
+- 🔗 [View Live Dashboard on Tableau Public](https://public.tableau.com/views/sales_and_customer_dashboard/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - 📥 [Download Tableau Workbook (.twbx)](sales_and_customer_dashboard.twbx)
 
 **Getting the most out of it:**
