@@ -108,7 +108,9 @@ The data model follows a classic **retail sales star-schema**, built using Table
 
 *(Data spans four full fiscal years — 2020 through 2023 — across the United States.)*
 
-![Data Architecture / Schema](screenshots/tableau-relationship-window.png)
+| Data Architecture & Schema |
+| :---: |
+| ![Data Architecture / Schema](screenshots/tableau-relationship-window.png) |
 
 ---
 
