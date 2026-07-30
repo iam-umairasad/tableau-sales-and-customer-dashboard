@@ -133,3 +133,13 @@ The data model follows a classic **retail sales star-schema**, built using Table
 This project's business requirements, user story, and dataset are based on the **"Tableau Complete Project End-to-End"** by **Baraa Khatib Salkini ("Data With Baraa")**. All credit for the original project brief, mockups, and teaching goes to him — this repository reflects my own build and implementation of that brief.
 
 📺 Course reference: [https://youtu.be/dahrmqT5GD4](https://youtu.be/dahrmqT5GD4?si=Ehc9mpdnKSJ-BCLl)
+
+---
+
+---
+
+## 📬 Contact & Connect
+
+**Email:** [iam.umairasad@gmail.com](iam.umairasad@gmail.com)
+* **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+* **Location:** Wah Cantt, Pakistan *(Open to Relocation Opportunities)*
