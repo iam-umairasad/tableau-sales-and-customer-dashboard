@@ -21,8 +21,8 @@ Digging through raw rows in a spreadsheet to answer these questions doesn't scal
 
 ## 🖥️ Interactive Dashboards Preview
 
-![Sales Performance Dashboard](link-to-your-image)
-![Customer Insights Dashboard](link-to-your-image)
+![Sales Performance Dashboard](screenshots/sales_dashboard_screenshot.png)
+![Customer Insights Dashboard](screenshots/customer_dashboard_screenshot.png)
 
 ---
 
@@ -107,14 +107,14 @@ The data model follows a classic **retail sales star-schema**, built using Table
 
 *(Data spans four full fiscal years — 2020 through 2023 — across the United States.)*
 
-![Data Architecture / Schema](link-to-your-image)
+![Data Architecture / Schema](screenshots/tableau-relationship-window.png)
 
 ---
 
 ## 🚀 How to Access & Explore
 
 - 🔗 [View Live Dashboard on Tableau Public](your-link-here)
-- 📥 [Download Tableau Workbook (.twbx)](your-link-here)
+- 📥 [Download Tableau Workbook (.twbx)](sales_and_customer_dashboard.twbx)
 
 **Getting the most out of it:**
 1. **Pick an year** — Click the funnel icon to expand the filter panel and select a reporting year from the "Select Year" dropdown; every KPI card and trend chart automatically re-baselines against the prior year.
