@@ -27,6 +27,19 @@ Digging through raw rows in a spreadsheet to answer these questions doesn't scal
 
 ---
 
+## 📋 Table of Contents
+
+- [🎯 Business Problem & Objectives](#-business-problem--objectives)
+- [🖥️ Interactive Dashboards Preview](#-interactive-dashboards-preview)
+- [📈 Key Metrics & Business Insights Tracked](#-key-metrics--business-insights-tracked)
+- [🛠️ Technical Stack & Advanced Implementations](#-technical-stack--advanced-implementations)
+- [🗄️ Data Architecture & Schema](#-data-architecture--schema)
+- [📁 Repository Structure](#-repository-structure)
+- [🚀 How to Access & Explore](#-how-to-access--explore)
+- [🤝 Acknowledgments](#-acknowledgments)
+
+---
+
 ## 📈 Key Metrics & Business Insights Tracked
 
 ### Sales Performance Dashboard
@@ -111,6 +124,30 @@ The data model follows a classic **retail sales star-schema**, built using Table
 | Data Architecture & Schema |
 | :---: |
 | ![Data Architecture / Schema](screenshots/tableau-relationship-window.png) |
+
+## 📁 Repository Structure
+
+```
+├── Datasets/
+│ ├── Customers.csv
+│ ├── Location.csv
+│ ├── Orders.csv
+│ └── Products.csv
+├── dashboard-icons/
+│ ├── Icon - Customer Dashboard (active).png
+│ ├── Icon - Customer Dashboard.png
+│ ├── Icon - Filter Hidden.png
+│ ├── Icon - Filter Shown.png
+│ ├── Icon - Logo.png
+│ ├── Icon - Sales Dashboard(active).png
+│ └── Icon - Sales Dashboard.png
+├── screenshots/
+│ ├── customer_dashboard_screenshot.png
+│ ├── sales_dashboard_screenshot.png
+│ └── tableau-relationship-window.png
+├── README.md
+└── sales_and_customer_dashboard.twbx
+```
 
 ---
 
